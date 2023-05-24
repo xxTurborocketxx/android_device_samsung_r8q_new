@@ -26,4 +26,4 @@
 
 # Removable partitions
 /external_sd	auto		/dev/block/mmcblk1p1	/dev/block/mmcblk1	flags=storage;wipeingui;removable
-/usb-otg	auto		/dev/block/sdg1		/dev/block/sdg		flags=storage;wipeingui;removable
+/usb-otg	auto		/dev/block/sde1		/dev/block/sde		flags=storage;wipeingui;removable
